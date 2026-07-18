@@ -13,4 +13,11 @@ https://orbit-guard-six.vercel.app/
 - 🛰️ Collision risk prediction
 - 📊 Debris prioritization
 - 🛡️ Mission planning
+- 
+- ## 🛠️ Tech Stack
+- React
+- Node.js
+- Express.js
+- OpenRouter AI
+- Vercel
 
