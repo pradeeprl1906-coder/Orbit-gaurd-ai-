@@ -3,14 +3,9 @@ OrbitGuard AI is a multi-agent OpenSwarm platform that analyzes space debris, pr
 
 # 🚀 Orbit Guard AI
 
-## 🌐 Live Demo (Frontend)
+## 🌐 Live Demo (Frontend and the backend)
+
 https://orbit-guard-six.vercel.app/
-
-## ⚙️ Backend API
-https://YOUR-BACKEND-URL.onrender.com
-
-## 📂 GitHub Repository
-https://github.com/pradeeprl1906-coder/Orbit-guard-ai-
 
 ## Features
 - 🤖 AI-powered space debris analysis
@@ -18,3 +13,4 @@ https://github.com/pradeeprl1906-coder/Orbit-guard-ai-
 - 🛰️ Collision risk prediction
 - 📊 Debris prioritization
 - 🛡️ Mission planning
+
